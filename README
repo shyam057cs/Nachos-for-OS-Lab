@@ -1,1 +1,2 @@
 This project is part of my s6 OS lab.Hope to add many more exciting features to this OS.
+As of now, I have implemented system call implementation for Open,Read,Write,Close,MyCopy(lab modifcation) operations in Nachos.
